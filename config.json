@@ -1,0 +1,6 @@
+{
+  "inbox": "file:///%APPDATA%/flash-mcp/inbox/",
+  "outbox": "file:///%APPDATA%/flash-mcp/outbox/",
+  "log": "file:///%APPDATA%/flash-mcp/logs/bridge.log",
+  "screenshots": "file:///%APPDATA%/flash-mcp/screenshots/"
+}
